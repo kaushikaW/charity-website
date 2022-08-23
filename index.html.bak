@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html" class="header-brand">mmtutes</a>
+        <nav>
+            <ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="index-banner">
+            <div class="vertical_center">
+                <h2>I AM A FREELANCE WEB<br>DEVELOPER</h2>
+                <h1>With spacialty in back end development, functionality,UX design,
+                    and search engine optimization</h1>
+            </div>
+
+        </section>
+
+        <div class="wrapper">
+            <section class="index-links">
+
+                <a href="#">
+                    <div class="index-boxline-square">
+                        <h3>Cases</h3>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="index-boxline-rectangle">
+                        <h3>Portfolio</h3>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="index-boxline-square">
+                        <h3>mmtuts</h3>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="index-boxline-rectangle">
+                        <h3>YouTube Channel</h3>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="index-boxline-square">
+                        <h3>About</h3>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="index-boxline-square">
+                        <h3>About</h3>
+                    </div>
+                </a>
+            </section>
+
+    </main>
+
+    
+    <footer>
+        <ul class="footer-links-main">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Cases</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">About me</a></li>
+            <li><a href="#">Contact</a></li>
+
+        </ul>
+
+        <ul class="footer-links-cases">
+            <li><p>Latest Cases</p></li>
+            <li><a href="#">CSS & HTML- WEB DEV</a></li>
+            <li><a href="#">OBJECT ORIENTED - PYTHON</a></li>
+            <li><a href="#">C - BASIC CONCEPT</a></li>
+            <li><a href="#">WEB TECHNOLOGY - EEXI69</a></li>
+
+        </ul>
+
+        <div class="footer-sm">
+            <a href="#">
+                <img src="instagram.png" alt="yt">
+            </a>
+            <a href="#">
+                <img src="twitter.png" alt="yt">
+            </a>
+            <a href="#">
+                <img src="facebook (1).png" alt="yt">
+            </a>
+        </div>
+
+    </footer>
+    </div>
+</body>
+
+</html>
